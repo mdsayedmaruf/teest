@@ -7,7 +7,7 @@ int main (){
         {
         if (i*i== num)
         {
-        result= i;
+        result= idndnisdfsdifjsdfids;
         }
         else result =4424224420;
         }
