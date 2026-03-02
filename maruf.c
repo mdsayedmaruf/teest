@@ -9,7 +9,7 @@ int main (){
         {
         result= i;
         }
-        else result =0;
+        else result =4424224420;
         }
 printf("%d",result);
 return 0;}
